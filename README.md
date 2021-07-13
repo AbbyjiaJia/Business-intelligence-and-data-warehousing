@@ -8,7 +8,9 @@ and proficience skill in SQL knowledge.
 
 # Description
 
+```
 * 1. Discusses the nature of BI and DW systems and their role in organisations. 
+```
     * Introduce business intelligence and provide a comprehensive business decision support framework
     * Introduce data warehouse, understand the purpose of a data warehouse, and its relationship to a business intelligence system
     * Introduce the difference between operational databases and data warehousing
